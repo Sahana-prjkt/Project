@@ -1,0 +1,12 @@
+#navid{
+    height: 30px; 
+    padding: 12px;
+    font-size: 22px;
+    background-color: rgb(206, 179, 212);
+    text-align: right;
+    
+}
+.decoration{
+    padding-right: 10px;
+    font-size: 18px;
+}
